@@ -22,10 +22,10 @@ int main()
             }
         }
         if(isprime){
-            printf("YES");
+            printf("YES ");
         }
         else{
-            printf("NO");
+            printf("NO ");
         }
 
     }
