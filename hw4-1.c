@@ -4,7 +4,7 @@
 int main()
 {
     int n,i,a;
-        printf("輸入共有幾個質數:");
+      
         scanf("%d",&n);
 
     int numbers[50];
